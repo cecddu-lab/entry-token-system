@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pandas
+qrcode==7.4.2
+pillow==10.3.0
+markupsafe==2.1.5
